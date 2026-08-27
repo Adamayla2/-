@@ -1,0 +1,15 @@
+{
+  "name": "Tonsillectomy Outcomes Study — Data Entry",
+  "short_name": "Tonsil Study",
+  "description": "Coblation vs Cold Steel tonsillectomy research — questionnaire digitization and dataset tool",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F7F6",
+  "theme_color": "#0E5C56",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

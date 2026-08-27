@@ -1,0 +1,10 @@
+{
+  "name": "tonsil-research-app",
+  "private": true,
+  "type": "module",
+  "description": "Local-first data-entry app for the Coblation vs Cold Steel tonsillectomy study. No build step — open index.html or serve the folder statically.",
+  "scripts": {
+    "test": "node test/logic.test.js",
+    "serve": "python3 -m http.server 8080"
+  }
+}
